@@ -1,5 +1,6 @@
 CheckOut
 
+* fixed long range sup for TFR-AMT85 by Valeriy 
 * ADDED sniper rifle Snaiperskaya Vintovka SV-98 Dimitri (RHS)
 
 * added link for download repository and ticket
