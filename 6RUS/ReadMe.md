@@ -1,6 +1,6 @@
 CheckOut
 
-+ ADDED sniper rifle Snaiperskaya Vintovka SV-98
+* ADDED sniper rifle Snaiperskaya Vintovka SV-98 Dimitri (RHS)
 
 * added link for download repository and ticket
 
