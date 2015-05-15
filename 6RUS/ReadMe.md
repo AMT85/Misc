@@ -1,5 +1,7 @@
 CheckOut
 
++ ADDED sniper rifle Snaiperskaya Vintovka SV-98
+
 * added link for download repository and ticket
 
 2015-05-15
