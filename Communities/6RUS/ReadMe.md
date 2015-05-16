@@ -2,10 +2,8 @@ CheckOut
 
 2015-05-16
 
-*  moved into RU_weapon folder
-*  fixed long range sup for TFR-AMT85 by Valeriy 
+*  moved into SV-98 RU_weapon folder
 *  ADDED sniper rifle Snaiperskaya Vintovka SV-98 Dimitri (RHS)
-
 *  added link for download repository and ticket
 
 2015-05-15
